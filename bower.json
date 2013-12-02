@@ -1,0 +1,7 @@
+{
+  "name": "grunt-basics-install-nodejs-npm",
+  "version": "0.1.0",
+  "dependencies": {
+    "reveal.js": "master"
+  }
+}
